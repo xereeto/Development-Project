@@ -1,4 +1,4 @@
-Development-Project
+Text Pop Art
 ===================
 
-This isn't an actual repo, I'm using this to learn how to use Github.
+Renders an image using your text
